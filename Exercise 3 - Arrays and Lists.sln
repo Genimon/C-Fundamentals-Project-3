@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 3 - Arrays and Lists", "Exercise 3 - Arrays and Lists.csproj", "{5041BE96-86EA-45C0-AA3B-DCA426621E36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "..\ConsoleApp1\ConsoleApp1.csproj", "{DE679131-CCC0-4FF1-B478-AF45D08B8B50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5041BE96-86EA-45C0-AA3B-DCA426621E36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5041BE96-86EA-45C0-AA3B-DCA426621E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5041BE96-86EA-45C0-AA3B-DCA426621E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5041BE96-86EA-45C0-AA3B-DCA426621E36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE679131-CCC0-4FF1-B478-AF45D08B8B50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE679131-CCC0-4FF1-B478-AF45D08B8B50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE679131-CCC0-4FF1-B478-AF45D08B8B50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE679131-CCC0-4FF1-B478-AF45D08B8B50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {576C95E2-38EF-40CB-B586-5B6E28727900}
+	EndGlobalSection
+EndGlobal
